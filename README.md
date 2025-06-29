@@ -6,4 +6,5 @@ Algumas coisas sobre mim:
 - Tenho 18 anos 
 - Sempre gostei de tecnologia
 - Sou brasileiro e mineiro de coracao
+- Gosto de games
 
