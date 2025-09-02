@@ -12,7 +12,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,nodejs,git,github,vscode,figma,mysql,postgresql,cs#,php,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,nodejs,git,github,vscode,figma,mysql,postgresql,cs,php,bootstrap" />
 </p>
 
 ---
