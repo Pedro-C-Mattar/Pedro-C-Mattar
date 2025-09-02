@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o Pedro!
 
----
 
 ## 🚀 Sobre mim:
 - 🎓 Estudando **Ciências da Computação**
