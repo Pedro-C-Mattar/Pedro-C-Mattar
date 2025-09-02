@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim:
 - 🎓 Estudando **Ciências da Computação**
-- 🛠️ Trabalhando em projetos de **JAVA, C, Postgresql, html/css**
+- 🛠️ Trabalhando e aprendendo projetos de **JAVA, C, Postgresql, html/css**
 - 📚 Sempre aprendendo algo novo da tecnologia e computação
 - 🌍 Local: **Brasil**
 
