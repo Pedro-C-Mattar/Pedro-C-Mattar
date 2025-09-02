@@ -1,21 +1,18 @@
 # 👋 Olá, eu sou o Pedro!
 
-💻 Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e criação de soluções criativas.  
-🎯 Atualmente focado em **[sua stack principal]** e explorando **[alguma tecnologia nova que esteja estudando]**.
+---
+
+## 🚀 Sobre mim:
+- 🎓 Estudando **Ciências da Computação**
+- 🛠️ Trabalhando em projetos de **JAVA, C, Postgresql, html/css**
+- 📚 Sempre aprendendo algo novo da tecnologia e computação
+- 🌍 Local: **Brasil**
 
 ---
 
-## 🚀 Sobre mim
-- 🎓 Estudando **Engenharia/Computação/...**
-- 🛠️ Trabalhando em projetos de **[frontend, backend, IA, etc.]**
-- 📚 Sempre aprendendo algo novo
-- 🌍 Localização: **Brasil**
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,python,java,c,cpp,nodejs,express,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,cpp,nodejs,git,github,vscode,figma,mysql,postgresql,csharp,php,bootstrap" />
 </p>
 
 ---
@@ -28,4 +25,4 @@
 
 ---
 
-⭐️ Feito com dedicação por [Seu Nome](https://github.com/SeuUser)
+⭐️ [Meu cantinho](https://github.com/Pedro-C-Mattar)
