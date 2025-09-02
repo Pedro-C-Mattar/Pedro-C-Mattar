@@ -9,7 +9,7 @@
 - 🌍 Local: **Brasil**
 
 
-
+---
 
 ## 🛠️ Tecnologias & Ferramentas:
 <p align="left">
@@ -17,7 +17,7 @@
 </p>
 
 
-
+---
 
 ## 🔗 Conexões
 <p align="left">
@@ -26,6 +26,6 @@
 </p>
 
 
---
+---
 
 ⭐️ [Meu cantinho](https://github.com/Pedro-C-Mattar?tab=repositories)
