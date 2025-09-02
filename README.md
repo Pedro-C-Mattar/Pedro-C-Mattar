@@ -20,19 +20,10 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SeuUser&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUser&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔗 Conecte-se comigo
+## 🔗 Conexões
 <p align="left">
-  <a href="https://linkedin.com/in/seuuser" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/seuuser" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/pedro-mattar-ba0888281" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="pedro.mattar26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
