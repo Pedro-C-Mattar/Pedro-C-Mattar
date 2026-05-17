@@ -1,16 +1,17 @@
 <div align="center">
+  <img width="100%" height="400" alt="topo" src="https://github.com/user-attachments/assets/757e7cf6-5b00-4a1e-a8f7-01ab78a5366a" />
+  <br/><br/>
+  
 
-  <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+Space!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+"
       alt="Typing SVG"
     />
   </a>
-
 </div>
 
----
+
 
 ## 👤 About Me
 
@@ -19,7 +20,6 @@ Tive Ensino Técnico em Informática pelo **Colégio Cotemig Floresta** e estou 
 **Ciência da Computação** pela PUC Minas Coração Eucarístico (3° Período).
 Sou apaixonado pelo mundo da computação ❤️
 
----
 
 ## 🔗 Connect with me!
 
@@ -28,7 +28,6 @@ Sou apaixonado pelo mundo da computação ❤️
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:pedro.mattar26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/pedro-carvalho-mattar-ba0888281)
 
----
 
 ## 🛠️ Programming
  
@@ -48,7 +47,7 @@ Sou apaixonado pelo mundo da computação ❤️
   <img align="left" alt="Elixir"     title="Elixir"      width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg"/>
 </p>
 <br clear="left"/>
----
+
  
 ## 🧰 Tools
  
@@ -68,13 +67,11 @@ Sou apaixonado pelo mundo da computação ❤️
 </p>
 <br clear="left"/>
 
----
+
 
 ## 📊 GitHub Stats
-
+ 
 <p align="left">
-
-  <!-- GitHub Stats -->
   <img
     align="left"
     alt="GitHub Stats"
@@ -82,20 +79,15 @@ Sou apaixonado pelo mundo da computação ❤️
     style="padding-right:10px;"
     src="https://github-readme-stats-alpha-silk-97.vercel.app/api?username=Pedro-C-Mattar&show_icons=true&theme=swift&bg_color=f5f0e8&title_color=8b7355&text_color=5c4a32&icon_color=c4a882&border_color=d4c4a8&locale=pt-br&include_all_commits=true&cache_seconds=86400"
   />
-
-  <!-- Top Languages -->
   <img
     align="left"
     alt="Top Languages"
     height="200"
     src="https://github-readme-stats-alpha-silk-97.vercel.app/api/top-langs/?username=Pedro-C-Mattar&bg_color=f5f0e8&title_color=8b7355&text_color=5c4a32&border_color=d4c4a8&layout=compact&custom_title=Tecnologias&langs_count=8"
   />
-
 </p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<!-- GitHub Streak -->
+<br clear="left"/>
+<br/>
 <p align="left">
   <img
     alt="GitHub Streak"
@@ -103,11 +95,13 @@ Sou apaixonado pelo mundo da computação ❤️
   />
 </p>
 
----
 
-<!-- Snake Animation -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg"/>
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+<div align="center">
+  <img width="100%" height="200" alt="foot" src="https://github.com/user-attachments/assets/f786846d-5d7f-4482-97f0-70f7a0026d4d" />
+</div>
