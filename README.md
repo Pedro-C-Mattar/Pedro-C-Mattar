@@ -103,5 +103,5 @@ Sou apaixonado pelo mundo da computação ❤️
 </picture>
 
 <div align="center">
-  <img width="100%" height="200" alt="foot" src="https://github.com/user-attachments/assets/f786846d-5d7f-4482-97f0-70f7a0026d4d" />
+  <img width="100%" height="50" alt="foot" src="https://github.com/user-attachments/assets/f786846d-5d7f-4482-97f0-70f7a0026d4d" />
 </div>
