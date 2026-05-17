@@ -3,6 +3,7 @@
   <br/><br/>
   
 
+
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+Space!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+"
@@ -15,13 +16,13 @@
 
 ## 👤 About Me
 
-Me chamo **Pedro Carvalho Mattar** e tenho 19 anos.
-Tive Ensino Técnico em Informática pelo **Colégio Cotemig Floresta** e estou graduando em
-**Ciência da Computação** pela PUC Minas Coração Eucarístico (3° Período).
-Sou apaixonado pelo mundo da computação ❤️
+- 🧑‍💻 Me chamo **Pedro Carvalho Mattar** e tenho **19 anos**
+- 🎓 Ensino **Técnico em Informática** e Graduando em **Ciência da Computação**
+- ❤️ Apaixonado pelo mundo da computação e tecnologia
 
 
-## 🔗 Connect with me!
+
+## 🔗 Connections
 
 <img align="right" alt="studying" height="190px" src="./src/study.gif"/>
 
@@ -29,7 +30,8 @@ Sou apaixonado pelo mundo da computação ❤️
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/pedro-carvalho-mattar-ba0888281)
 
 
-## 🛠️ Programming
+
+## 👾 Programming
  
 <p align="left">
   <img align="left" alt="HTML"       title="HTML5"       width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
@@ -48,8 +50,9 @@ Sou apaixonado pelo mundo da computação ❤️
 </p>
 <br clear="left"/>
 
+
  
-## 🧰 Tools
+## 🛠️ Tools
  
 <p align="left">
   <img align="left" alt="Apache"      title="Apache"      width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg"/>
@@ -101,6 +104,8 @@ Sou apaixonado pelo mundo da computação ❤️
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg"/>
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+
 
 <div align="center">
   <img width="100%" height="50" alt="foot" src="https://github.com/user-attachments/assets/f786846d-5d7f-4482-97f0-70f7a0026d4d" />
